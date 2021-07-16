@@ -3,4 +3,4 @@
 Olá! Bem vindo ao seu livro de receitas!
 
 - Strogonoff de Frango teste
-- Pavê
+- Calda de Chocolate
